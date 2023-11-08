@@ -1,6 +1,13 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#  Game rules
+The main board contains simply a bunch* of cards. Each of them contains some image, but all of them are hidden actually. Each of card has one matching card equivalent on the board, with the same image. You need to find all the matching cards. When you discover 2 cards and they don't match, they are hiding again and the best thing to do is just try to remember what cards you discovered and where. It will help you with finding matching pairs.
+
+only 1 level : 
+6 unique cards 
+
+# Run the game locally
+- download or clone repository 
+- npm install or npm run start
 
 ## Available Scripts
 
